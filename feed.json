@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Pigdev Academy",
     "description": "",
-    "home_page_url": "http://pigdev.academy",
-    "feed_url": "http://pigdev.academy/feed.json",
+    "home_page_url": "https://pigdev.academy",
+    "feed_url": "https://pigdev.academy/feed.json",
     "user_comment": "",
-    "icon": "http://pigdev.academy/media/website/avatar-round.png",
+    "icon": "https://pigdev.academy/media/website/avatar-round.png",
     "author": {
         "name": "Henrique Campos"
     },
